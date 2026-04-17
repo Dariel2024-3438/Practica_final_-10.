@@ -1,0 +1,15 @@
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\bin\Debug\net10.0\Practica_Final_Actividad_Diez.exe
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\bin\Debug\net10.0\Practica_Final_Actividad_Diez.deps.json
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\bin\Debug\net10.0\Practica_Final_Actividad_Diez.runtimeconfig.json
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\bin\Debug\net10.0\Practica_Final_Actividad_Diez.dll
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\bin\Debug\net10.0\Practica_Final_Actividad_Diez.pdb
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\obj\Debug\net10.0\Practica_Final_Actividad_Diez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\obj\Debug\net10.0\Practica_Final_Actividad_Diez.AssemblyInfoInputs.cache
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\obj\Debug\net10.0\Practica_Final_Actividad_Diez.AssemblyInfo.cs
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\obj\Debug\net10.0\Practica_Final_Actividad_Diez.csproj.CoreCompileInputs.cache
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\obj\Debug\net10.0\Practica_Final_Actividad_Diez.sourcelink.json
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\obj\Debug\net10.0\Practica_Final_Actividad_Diez.dll
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\obj\Debug\net10.0\refint\Practica_Final_Actividad_Diez.dll
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\obj\Debug\net10.0\Practica_Final_Actividad_Diez.pdb
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\obj\Debug\net10.0\Practica_Final_Actividad_Diez.genruntimeconfig.cache
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\Practica_Final_Actividad_Diez\obj\Debug\net10.0\ref\Practica_Final_Actividad_Diez.dll
